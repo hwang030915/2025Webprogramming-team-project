@@ -4,7 +4,7 @@
 * **과제명:** To-Do List 업그레이드 (Version 3 → Version 4)
 * **제출자:** 정이량(2022 2017), 황왕석(2022 2161)
 * **제출일:** 2025년 06월 23일
-* [**GitHub 원격 저장소**]()
+* [**GitHub 원격 저장소**](https://github.com/hwang030915/2025Webprogramming-team-project)
 
 >**simple_todos_v4.json 파일도 첨부**
 **(프로젝트에서 파일 확인하실 때 기능 확인이 용이함)**
